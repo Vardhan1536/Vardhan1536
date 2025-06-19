@@ -9,30 +9,30 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 - 🎓 I'm a **Computer Science undergrad** from India  
 - 📚 Actively learning **AI | Machine Learning | Deep Learning** with hands-on projects  
 - 🔍 I love solving real-world problems using **automation, NLP, and cloud-native apps**
-- ✨ Exploring **SAP-inspired enterprise systems**, **RLHF**, **SimCSE**, and **smart software design**
 - 🧠 Passionate about **thinking, writing**, and building things that **actually work**
-- ✍️ I also share thoughts & blogs — [Check them here](https://vardhan1536.github.io)
+- ✍️ I also share thoughts & blogs — [Check them here](https://medium.com/@balavardhan1536)
+- 🏀 **Basketball Point Guard**, representing my university at **South Zone Inter-University tournaments**
 
 ---
 
-### 🧩 Current Focus
+### Current Focus
 
-- 🤖 Building AI-backed pipelines with RLHF and SimCSE  
-- 🔁 Automating workflows using FastAPI, Node.js & cloud-native tools  
-- 🛠️ Experimenting with **zero-shot stance detection**, **custom reward models**, and **SimPy simulations**
+-  Building AI-backed pipelines with RLHF and SimCSE  
+-  Automating workflows using FastAPI, Node.js & cloud-native tools  
+-  Experimenting with **zero-shot stance detection**, **custom reward models**, and **SimPy simulations**
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/balavardhan-tummalacherla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vardhanofficial36@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://vardhan1536.github.io"><img src="https://img.shields.io/badge/Portfolio-%23ff6600.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vardhan1536/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:balavardhantummalacherla@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://balavardhanportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23ff6600.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Vardhan1536&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -76,10 +76,11 @@
 
 ---
 
-### 📍 Fun Facts
+### 🎯 On the Court & Off the Code
 
-- 🎮 Gamer by night, Developer by day  
-- 📷 Low-key photographer & design explorer  
+- ⛹️ Representing my university as a **Point Guard** in national-level basketball tournaments 
+- 💡 Passionate about solving complex problems through both **strategy & execution**
+- 🎮 Gamer by night, writer by thought, coder by fire  
 - 🧩 Semi-introvert but deeply curious and expressive through code
 
 ---
@@ -88,4 +89,3 @@
   <img src="https://komarev.com/ghpvc/?username=Vardhan1536&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
-<!-- Custom README built with precision and style for Vardhan1536 -->
