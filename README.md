@@ -1,8 +1,9 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey!%20I'm%20Balavardhan%20👨‍💻&fontAlign=40&fontColor=ffffff&fontSize=36&desc=AI%20Enthusiast%20|%20Builder%20|%20Learner&descAlign=60&descSize=20&descColor=ffffff)](https://github.com/Vardhan1536)
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey%20there!%20I'm%20Balavardhan%20👋&fontSize=35&fontAlign=50&fontColor=fff)](https://github.com/Vardhan1536)
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=12F7D6&center=true&vCenter=true&width=600&lines=CS+Undergrad+%7C+AI+%26+ML+Learner;Full+Stack+Explorer+%7C+Cloud+Next;RLHF,+NLP,+Automation+%7C+Side+Projects+Fanatic" alt="Typing SVG" />
-</h3>
+<h3 align="center">🧠 Curious | 🎯 Focused | 🚀 Always Learning</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=CS+Student+from+India;Passionate+about+AI+%26+Full+Stack;Exploring+new+domains+every+day;Let's+build+something+awesome!" />
+</p>
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320"/>
 
